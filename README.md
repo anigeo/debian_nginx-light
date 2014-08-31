@@ -1,6 +1,6 @@
 # nginx-light on Debian Wheezy Backports
 
-Automatic docker image build with nginx-light wheezy-backports packages.  Visit <https://packages.debian.org/wheezy-backports/nginx-extras> for package detail.
+Automatic docker image build with nginx-light wheezy-backports packages.  Visit <https://packages.debian.org/wheezy-backports/nginx-light> for package detail.
 
 ## Usage
 ```
